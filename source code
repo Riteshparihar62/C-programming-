@@ -278,7 +278,7 @@ for (int i=1; i<=10;i++)
 printf("%d/n",i );
 }
 int main (){
-riya(10);
+ritesh(10);
 return 0;
 }
  
@@ -287,8 +287,8 @@ return 0;
 //for loop....
 #include <stdio.h> 
 int main (){
-for(int riya=0;riya<=5;riya++){
-printf("%d\n",riya);
+for(int i=0;i<=5;i++){
+printf("%d\n",i);
 }  
 return 0;
 }
@@ -1500,9 +1500,9 @@ printf("this is a english number%d\n" ,english);
 printf("this is a chemestry number%d\n",chemestry);
 printf("this is a physics number%d\n",physics);
 printf("this is a maths number%d\n",maths);
-riya =hindi+english+chemestry+physics+maths;
+ritesh =hindi+english+chemestry+physics+maths;
 printf("sum of all subject number in a ritesh %d\n",ritesh);
-riya=riya/5;
+ritesh=ritesh/5;
 printf("percentage of ritesh %d\n",ritesh);
 //condition
 if(outof>60){
